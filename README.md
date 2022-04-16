@@ -19,4 +19,4 @@ Click on the HackeRank icon.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [](Basic%20Select/Revising-the-select-Query-1.sql)
+| 1 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [](Basic%20Select/Revising-the-select-Query-1.sql)
