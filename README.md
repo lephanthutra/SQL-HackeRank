@@ -5,7 +5,7 @@
 
 # My profile on HackeRank
 
-Click to the HackeRank icon
+Click on the HackeRank icon.
 <p align="center">  
 	<br> 
 	<a href="https://www.hackerrank.com/lpttra_iu_itds">
@@ -15,5 +15,8 @@ Click to the HackeRank icon
 </p>
 
 
-# SQL-HackeRank
-Practice SQL
+# EASY 
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [](Basic%20Select/Revising-the-select-Query-1.sql)
