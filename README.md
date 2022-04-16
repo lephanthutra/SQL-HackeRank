@@ -1,5 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lephanthutra&hide=javascript,css,scss,html&theme=tokyonight)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lephanthutra/SQL-HackeRank?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/lephanthutra/SQL-HackeRank.svg?cache=remove)
 
