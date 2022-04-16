@@ -4,9 +4,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/lephanthutra/SQL-HackeRank.svg?cache=remove)
 
 <p align="center">  
-	<br>
+	<br> My profile on HackeRank
 	<a href="https://www.hackerrank.com/lpttra_iu_itds">
-        <img height=100 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg"> 
+        <img height=100 src="https://github.com/lephanthutra/SQL-HackeRank/blob/main/hackerrank.svg"> 
     </a>
     <br>
 </p>
