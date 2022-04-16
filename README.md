@@ -30,3 +30,4 @@ Click on the HackeRank icon.
 | 9 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [MySQL](Weather%20Observation%20Station%12.sql)|
 | 10 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [MySQL](Higher%20Than%2075%20Marks.sql)|
 | 11 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [MySQL](Employee%20Names.sql)|
+| 12 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [MySQL](Employee%20Salaries.sql)|
