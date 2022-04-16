@@ -19,4 +19,7 @@ Click on the HackeRank icon.
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [MySQL](Weather%20Observation%20Station%205.sql)
+| 1 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [MySQL](Weather%20Observation%20Station%205.sql)|
+| 2 | [Weather Observation Station ](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [MySQL](Weather%20Observation%20Station%204.sql)|
+
+
