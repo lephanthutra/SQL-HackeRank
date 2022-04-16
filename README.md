@@ -21,5 +21,4 @@ Click on the HackeRank icon.
 |:------:|------------|:---------:|
 | 1 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [MySQL](Weather%20Observation%20Station%205.sql)|
 | 2 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [MySQL](Weather%20Observation%20Station%204.sql)|
-
-
+| 3 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [MySQL](Weather%20Observation%20Station%206.sql)|
