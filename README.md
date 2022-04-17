@@ -24,6 +24,23 @@ Click on the HackeRank icon.
 | 4 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [MySQL](Weather%20Observation%20Station%207.sql)|
 | 5 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [MySQL](Weather%20Observation%20Station%208.sql)|
 | 6 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [MySQL](Weather%20Observation%20Station%209.sql)|
+| 7 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [MySQL](Weather%20Observation%20Station%2010.sql)|
+| 8 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [MySQL](Weather%20Observation%20Station%11.sql)|
+| 9 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [MySQL](Weather%20Observation%20Station%12.sql)|
+| 10 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [MySQL](Higher%20Than%2075%20Marks.sql)|
+| 11 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [MySQL](Employee%20Names.sql)|
+| 12 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [MySQL](Employee%20Salaries.sql)|
+
+# Advance SELECT
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MySQL](Weather%20Observation%20Station%205.sql)|
+| 2 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [MySQL](Type%20of%20Triangle.sql)|
+| 3 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [MySQL](Weather%20Observation%20Station%206.sql)|
+| 4 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [MySQL](Weather%20Observation%20Station%207.sql)|
+| 5 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [MySQL](Weather%20Observation%20Station%208.sql)|
+| 6 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [MySQL](Weather%20Observation%20Station%209.sql)|
 | 7 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [MySQL](Weather%20Observation%20Station%10.sql)|
 | 8 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [MySQL](Weather%20Observation%20Station%11.sql)|
 | 9 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [MySQL](Weather%20Observation%20Station%12.sql)|
