@@ -38,7 +38,7 @@ Click on the HackeRank icon.
 | 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MySQL](Weather%20Observation%20Station%205.sql)|
 | 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MySQL](The%20PADS.sql)|
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [MySQL](Occupations.sql)|
-| 4 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [MySQL](Weather%20Observation%20Station%207.sql)|
+| 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MySQL](Binary%20Tree%20Nodes.sql)|
 | 5 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [MySQL](Weather%20Observation%20Station%208.sql)|
 | 6 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [MySQL](Weather%20Observation%20Station%209.sql)|
 | 7 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [MySQL](Weather%20Observation%20Station%10.sql)|
