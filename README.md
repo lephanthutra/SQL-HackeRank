@@ -60,5 +60,7 @@ Click on the HackeRank icon.
 | 13 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2015.sql)|
 | 14 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2016.sql)|
 | 15 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2017.sql)|
-| 16 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2016.sql)|
+| 16 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2018.sql)|
+| 17 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2019.sql)|
+| 16 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [MySQL](aggregation/Weather%20Observation%20Station%2016.sql)|
 
