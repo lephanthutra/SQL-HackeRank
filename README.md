@@ -42,6 +42,9 @@ Click on the HackeRank icon.
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MySQL](New%20Companies.sql)|
 
 # AGGREGATION
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
 | 1 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [MySQL](aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)|
 | 2 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [MySQL](aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)|
 | 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [MySQL](aggregation/Revising%20Aggregations%20-%20Averages.sql)|
