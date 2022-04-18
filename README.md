@@ -39,7 +39,7 @@ Click on the HackeRank icon.
 | 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MySQL](The%20PADS.sql)|
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [MySQL](Occupations.sql)|
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MySQL](Binary%20Tree%20Nodes.sql)|
-| 5 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [MySQL](Weather%20Observation%20Station%208.sql)|
+| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MySQL](New%20Companies.sql)|
 | 6 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [MySQL](Weather%20Observation%20Station%209.sql)|
 | 7 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [MySQL](Weather%20Observation%20Station%10.sql)|
 | 8 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [MySQL](Weather%20Observation%20Station%11.sql)|
